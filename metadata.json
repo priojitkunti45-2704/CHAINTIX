@@ -1,0 +1,6 @@
+{
+  "name": "CHAINTIX",
+  "description": "Smart Contract-based ticketing platform with dynamic QR codes and scalping prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
